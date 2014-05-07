@@ -1,0 +1,5 @@
+pkg/
+src/
+atom-shell-*.pkg.tar.xz
+atom-shell-*.tar.gz
+atom-shell.zip
